@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PX7LBIV5fjw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daryl\\source\\repos\\MVCProject\\MVCProject\\MVCProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daryl\\.nuget\\packages\\microsoft.typescript.msbuild\\5.5.3\\microsoft.typescript.msbuild.5.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
